@@ -19,5 +19,5 @@
 *.lock
 *.yml
 *.pem
-wp-content/upload/
+wp-content/uploads/
 
