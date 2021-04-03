@@ -20,4 +20,21 @@
 *.yml
 *.pem
 wp-content/uploads/
+wp-content/wechat-social-login/
+wp-content/plugins/commonwp/
+wp-content/plugins/easy-wp-smtp/
+wp-content/plugins/freepay-woocommerce/
+wp-content/plugins/memcached-is-your-friend/
+wp-content/plugins/nm-portfolio/
+wp-content/plugins/perfmatters/
+wp-content/plugins/phppoet-checkout-fields/
+wp-content/plugins/print-invoices-packing-slip-labels-for-woocommerce/
+wp-content/plugins/repeat-order-for-woocommerce/
+wp-content/plugins/tiny-compress-images/
+wp-content/plugins/updraftplus/
+wp-content/plugins/woocommerce-chinese-city/
+wp-content/plugins/woocommerce-upload-files/
+wp-content/plugins/wp-bottom-menu/
+wp-content/plugins/yith-woocommerce-ajax-product-filter-premium/
+
 
